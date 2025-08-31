@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rahul Choudhary - Love Adviser</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Radhe Radhe 🌸</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="lovers.html">Lovers</a></li>
+                <li><a href="advice.html">Relationship Advice</a></li>
+                <li><a href="breakups.html">Breakups</a></li>
+                <li><a href="moveon.html">Move On</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="main">
+        <div class="intro">
+            <img src="images/profile.png" alt="Rahul Choudhary" class="profile-img">
+            <h1>Rahul Choudhary</h1>
+            <h2>Love Adviser | Expert in Relationships, Breakups & Finding Partners</h2>
+            <p>Let me guide you through love, breakups, and everything in between.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>Connect with me: <a href="https://www.instagram.com/rahul_chaudhary_.01" target="_blank">Instagram</a></p>
+    </footer>
+</body>
+</html>
