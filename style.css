@@ -1,0 +1,68 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #fff;
+    background: url('images/background.webp') no-repeat center center fixed;
+    background-size: cover;
+    opacity: 0.8;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px 20px;
+    text-align: center;
+    color: white;
+}
+
+header .logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.main {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.main .profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.6);
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+/* Watermark */
+footer p {
+    font-size: 16px;
+    color: #ccc;
+}
